@@ -19,6 +19,9 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - If you place the cursor on her head, she will look at you
 - Idle mode: It works like [return "idle"] (the time will change between day-noon-night, she can get and put away consumables (like coffee) and she can change her outfit if you have Auto Outfit Change submod)
 
+## Credits
+SzczawGirl made the dialogues (thanks again!)
+
 # PLEASE READ BELOW
 ## Conditions
 - Affection points must be over 100
@@ -109,7 +112,6 @@ In case you want to add a laptop, add this line instead:
   },
 ```
 
-# Credits
-SzczawGirl made the dialogues (thanks again!)
 
-# If you have any issue, please let me know
+
+## If you have any issue, please let me know
