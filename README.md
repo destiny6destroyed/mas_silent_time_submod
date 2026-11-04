@@ -27,7 +27,7 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - Go to your MAS folder and merge the "game" folder of the submod with yours
 
 # How to add my own book or laptop?
-Let's use as example at Lisa's book by otter (if you want it, you can download it in Packs.zip here: https://github.com/Friends-of-Monika/otter-spritepacks/releases/tag/1.0.0)
+Let's use as example Lisa's book by otter (if you want it, you can download it in Packs.zip here: https://github.com/Friends-of-Monika/otter-spritepacks/releases/tag/1.0.0)
 
 Here it is the json file:
 
@@ -59,6 +59,51 @@ Here it is the json file:
   "giftname": "otter_lisa_book_tableacs"
 }
 
+```
+Now, to turn this book into a readable book, just add this line:
+```
+  "ex_props": {
+    "book": true
+  },
+```
+It will look like this:
+```
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_lisa_book_tableacs",
+  "img_sit": "otter_lisa_book_tableacs",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "ex_props": {
+    "book": true        <--- Here
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Lisa's book",
+    "thumb": "otter_lisa_book_tableacs",
+    "group": "table_acs",
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  },
+  "dlg_desc": "gift",
+  "dlg_plural": false,
+  "giftname": "otter_lisa_book_tableacs"
+}
+
+```
+In case you want to add a laptop, add this line instead:
+```
+  "ex_props": {
+    "laptop": true
+  },
 ```
 
 # Credits
