@@ -110,6 +110,6 @@ In case you want to add a laptop, add this line instead:
 ```
 
 # Credits
-SzczawGirl who made the dialogues
+SzczawGirl made the dialogues (thanks again!)
 
 # If you have any issue, please let me know
