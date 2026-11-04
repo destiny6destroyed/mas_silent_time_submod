@@ -19,10 +19,10 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - If you place the cursor on her head, she will look at you
 - Idle mode: It works like [return "idle"] (the time will change between day-noon-night, she can get and put away consumables (like coffee) and she can change her outfit if you have Auto Outfit Change submod)
 
-# PLEASE READ BELLOW
+# PLEASE READ BELOW
 ## Conditions
 - Affection points must be over 100
-- She must have a book or a laptop. This submod includes the laptop of the image, but bellow I explain how to add more
+- She must have a book or a laptop. This submod includes the laptop of the image, but below I explain how to add more
 - The book and laptop must be in the table_acs group (not cushion_book or others)
 
 # Instruction
