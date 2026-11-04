@@ -4,12 +4,21 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 
 
 ## What does this do?
+- Instead of staring at you or your cursor, she will be reading or be at her computer
+- The prompt is "Do you want to spend some silent time together?"
 
 # PLEASE READ BELLOW
 ## Conditions
 - Affection points must be over 100
-- She must have a book or a laptop. This submod includes the laptop of the image, but bellow I will explain how to add more
+- She must have a book or a laptop. This submod includes the laptop of the image, but bellow I explain how to add more
 
 # Instruction
-- Go to the "Releases" tab on the right this webpage
+- Go to the "Releases" tab on the right this webpage and download
 - Go to your MAS folder and merge the "game" folder of the submod with yours
+
+# How to add my own book or laptop?
+
+# Credits
+SzczawGirl who made the dialogues
+
+# If you have any issue, please let me know
