@@ -6,6 +6,13 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 ## What does this do?
 - Instead of staring at you or your cursor, she will be reading or be at her computer
 - The prompt is "Do you want to spend some silent time together?"
+- New eyes: Six new eyes poses were added for the submod (three def and three leaning). There were made editing the default MAS eyes, 
+  ```
+  "z": "down"
+  "x": "downright"
+  "y": "downleft"
+  ```
+- Animations: She will display different expressions and poses while she is focus (take your guess 
 
 # PLEASE READ BELLOW
 ## Conditions
