@@ -11,6 +11,7 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 ## Conditions
 - Affection points must be over 100
 - She must have a book or a laptop. This submod includes the laptop of the image, but bellow I explain how to add more
+- The book and laptop must be in the table_acs group (not cushion_book or others)
 
 # Instruction
 - Go to the "Releases" tab on the right this webpage and download
