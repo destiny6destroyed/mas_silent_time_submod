@@ -16,6 +16,7 @@ A submod that let Monika read or use a laptop instead of staring (still she does
   }
   ```
 - Animations: She will display different expressions and poses while she is focus (take your guess what she is doing or reading)
+- If you place the cursor on her head, she will look at you
 - Idle mode: It works like [return "idle"] (the time will change between day-noon-night, she can get and put away consumables (like coffee) and she can change her outfit if you have Auto Outfit Change submod)
 
 # PLEASE READ BELLOW
