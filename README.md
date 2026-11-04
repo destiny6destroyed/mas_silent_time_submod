@@ -6,13 +6,15 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 ## What does this do?
 - Instead of staring at you or your cursor, she will be reading or be at her computer
 - The prompt is "Do you want to spend some silent time together?"
+- She will ask you what are you going to do 
 - New eyes: Six new eyes poses were added for the submod (three def and three leaning). There were made editing the default MAS eyes, 
   ```
   "z": "down"
   "x": "downright"
   "y": "downleft"
   ```
-- Animations: She will display different expressions and poses while she is focus (take your guess 
+- Animations: She will display different expressions and poses while she is focus (take your guess what she is doing or reading)
+- Idle mode: It works like [return "idle"] (the game will change between day-noon-night, she can get and put away consumables (like coffee)
 
 # PLEASE READ BELLOW
 ## Conditions
@@ -25,6 +27,39 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - Go to your MAS folder and merge the "game" folder of the submod with yours
 
 # How to add my own book or laptop?
+Let's use as example at Lisa's book by otter (if you want it, you can download it in Packs.zip here: https://github.com/Friends-of-Monika/otter-spritepacks/releases/tag/1.0.0)
+
+Here it is the json file:
+
+```
+{
+  "__author": "otter",
+  "version": 3,
+  "type": 0,
+  "name": "acs_otter_lisa_book_tableacs",
+  "img_sit": "otter_lisa_book_tableacs",
+  "pose_map": {
+    "default": "0",
+    "l_default": "0"
+  },
+  "rec_layer": 2,
+  "priority": 15,
+  "acs_type": "table_acs",
+  "stay_on_start": true,
+  "select_info": {
+    "display_name": "Lisa's book",
+    "thumb": "otter_lisa_book_tableacs",
+    "group": "table_acs",
+    "select_dlg": [
+      "Me, a grand mage? That was a long time ago, I'm just a humble librarian now."
+    ]
+  },
+  "dlg_desc": "gift",
+  "dlg_plural": false,
+  "giftname": "otter_lisa_book_tableacs"
+}
+
+```
 
 # Credits
 SzczawGirl who made the dialogues
