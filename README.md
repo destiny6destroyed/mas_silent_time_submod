@@ -7,14 +7,14 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - Instead of staring at you or your cursor, she will be reading or be at her computer
 - The prompt is "Do you want to spend some silent time together?"
 - She will ask you what are you going to do 
-- New eyes: Six new eyes poses were added for the submod (three def and three leaning). There were made editing the default MAS eyes, but you are free to replace them (even you can replace it with your custom eyes of EmeraldBox)
+- New eyes: Six new eyes poses were added for the submod (three def and three leaning). There were made editing the default MAS eyes, but you are free to replace them (even you can replace them with your custom eyes of EmeraldBox submod)
   ```
   "z": "down"
   "x": "downright"
   "y": "downleft"
   ```
 - Animations: She will display different expressions and poses while she is focus (take your guess what she is doing or reading)
-- Idle mode: It works like [return "idle"] (the game will change between day-noon-night, she can get and put away consumables (like coffee)
+- Idle mode: It works like [return "idle"] (the time will change between day-noon-night, she can get and put away consumables (like coffee) and she can change her outfit if you have Auto Outfit Change submod)
 
 # PLEASE READ BELLOW
 ## Conditions
@@ -23,8 +23,8 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - The book and laptop must be in the table_acs group (not cushion_book or others)
 
 # Instruction
-- Go to the "Releases" tab on the right this webpage and download
-- Go to your MAS folder and merge the "game" folder of the submod with yours
+- Go to the "Releases" tab on the right this webpage and download "Silent Time Together.zip"
+- Go to your MAS folder and merge the "game" and "characters" folders of the submod with yours
 
 # How to add my own book or laptop?
 Let's use as example Lisa's book by otter (if you want it, you can download it in Packs.zip here: https://github.com/Friends-of-Monika/otter-spritepacks/releases/tag/1.0.0)
