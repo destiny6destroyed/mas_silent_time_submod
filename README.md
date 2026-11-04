@@ -9,9 +9,11 @@ A submod that let Monika read or use a laptop instead of staring (still she does
 - She will ask you what are you going to do 
 - New eyes: Six new eyes poses were added for the submod (three def and three leaning). There were made editing the default MAS eyes, but you are free to replace them (even you can replace them with your custom eyes of EmeraldBox submod)
   ```
-  "z": "down"
-  "x": "downright"
-  "y": "downleft"
+  "eyes": {
+    "z": "down"
+    "x": "downright"
+    "y": "downleft"
+  }
   ```
 - Animations: She will display different expressions and poses while she is focus (take your guess what she is doing or reading)
 - Idle mode: It works like [return "idle"] (the time will change between day-noon-night, she can get and put away consumables (like coffee) and she can change her outfit if you have Auto Outfit Change submod)
